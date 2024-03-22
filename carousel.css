@@ -37,6 +37,10 @@ body {
   margin-left: .75rem;
 }
 /* rtl:end:ignore */
+/* Set headers to white */
+.marketing .col-lg-4 h2 {
+  color: white; /* Set header color to white */
+}
 
 /* Featurettes */
 .featurette-divider {
