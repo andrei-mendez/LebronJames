@@ -8,6 +8,13 @@ body {
   color: rgb(var(--bs-tertiary-color-rgb));
 }
 
+body {
+  /* Gradient background */
+  background: linear-gradient(to bottom right, purple, gold, navy, maroon, red);
+  /* Ensure text remains readable on the gradient background */
+  color: white;
+}
+
 
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
