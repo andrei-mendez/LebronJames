@@ -42,6 +42,12 @@ body {
   color: white; /* Set header color to white */
 }
 
+/* Set line color to white */
+.featurette-divider {
+  margin: 5rem 0;
+  border-top: 1px solid white; /* Set line color to white */
+}
+
 /* Featurettes */
 .featurette-divider {
   margin: 5rem 0; /* Space out the Bootstrap <hr> more */
