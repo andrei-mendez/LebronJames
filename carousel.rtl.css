@@ -41,7 +41,10 @@ body {
   margin-right: .75rem;
   margin-left: .75rem;
 }
-
+/* Set headers to white */
+.marketing .col-lg-4 h2 {
+  color: white; /* Set header color to white */
+}
 
 /* Featurettes
 ------------------------- */
